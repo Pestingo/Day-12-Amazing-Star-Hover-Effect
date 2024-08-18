@@ -8,3 +8,4 @@ Day-12-Amazing-Star-Hover-Effect
 🌈 Styling Options: Customize colors, shadows, and borders for uniqueness.
 
 output
+![Uploading image.png…]()
